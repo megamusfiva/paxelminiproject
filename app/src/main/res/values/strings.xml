@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paxel Mini Project</string>
+    <string name="avatar">avatar</string>
+    <string name="android">Android</string>
+    <string name="error">Data Tidak Ditemukan</string>
+    <string name="search">SEARCH</string>
+    <string name="splash_screen">splash screen</string>
+    <string name="type_a_project_s_name">Type a projectʼs name</string>
+</resources>
